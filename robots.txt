@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mluort.github.io/ydM/sitemap.ydM.gz
